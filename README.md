@@ -9,7 +9,7 @@
 - Passionate about **software development**, **problem solving**, and **open-source**.
 - Currently a **Computer Science Peer Tutor** at UWGB Learning Center.
 - Experienced in **Python**, **Java**, **JavaScript**, **HTML/CSS**, **React**, and **SQL**.
-- Active contributor to open-source projects (Hacktoberfest 2022).
+- Active participant in global hackathons and open-source initiatives.
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🌟 Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) | Designed exohabitable planet concept using NASA open data | Data Analysis, Leadership |
-| [Hacktoberfest Contributions](https://github.com/search?q=author:sumitkarki07&type=pullrequests) | Open-source PRs for bug fixes & docs | GitHub, Markdown |
+| [Weather Alert System](https://github.com/sumitkarki07/weather-alert-system) | Developed for **NASA International Space Apps Challenge 2025** — a real-time alert system analyzing meteorological data to forecast severe weather and notify users. | Python, APIs, Data Visualization |
+| [Hacktoberfest Contributions](https://github.com/search?q=author:sumitkarki07&type=pullrequests) | Open-source PRs for bug fixes and documentation during Hacktoberfest. | GitHub, Markdown |
 
 ---
 
