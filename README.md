@@ -43,6 +43,3 @@
 
 ---
 
-### 📊 GitHub Stats
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitkarki07&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkarki07&layout=compact)
